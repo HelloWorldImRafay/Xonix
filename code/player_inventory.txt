@@ -1,0 +1,13 @@
+CURRENT_THEME:3
+TOTAL_THEMES:11
+THEME_ID:1|NAME:Classic Blue|DESC:Traditional blue and white theme|COLOR:#1E90FF|LOCKED:0
+THEME_ID:2|NAME:Dark Mode|DESC:Elegant dark theme for easy on the eyes|COLOR:#1A1A1A|LOCKED:0
+THEME_ID:3|NAME:Forest Green|DESC:Nature-inspired green theme|COLOR:#228B22|LOCKED:0
+THEME_ID:4|NAME:Sunset Orange|DESC:Warm orange and yellow tones|COLOR:#FF8C00|LOCKED:0
+THEME_ID:5|NAME:Purple Dreams|DESC:Mystical purple theme|COLOR:#9932CC|LOCKED:0
+THEME_ID:6|NAME:Cyberpunk Neon|DESC:Neon-lit futuristic theme|COLOR:#FF10F0|LOCKED:0
+THEME_ID:7|NAME:Ocean Wave|DESC:Cool cyan and blue theme|COLOR:#00CED1|LOCKED:0
+THEME_ID:8|NAME:Fire Red|DESC:Intense red theme|COLOR:#DC143C|LOCKED:0
+THEME_ID:9|NAME:Mint Fresh|DESC:Cool mint green theme|COLOR:#98FF98|LOCKED:0
+THEME_ID:10|NAME:Gold Premium|DESC:Luxurious gold theme|COLOR:#FFD700|LOCKED:0
+THEME_ID:11|NAME:Emerald Glow|DESC:Beautiful emerald green with glow effect|COLOR:#50C878|LOCKED:0
